@@ -137,7 +137,7 @@ export default function HeroSection() {
                 >
                     <h1
                         ref={titleRef as any}
-                        className="typeone-font liquid-glass-orange-black text-[15vw] md:text-[13vw] lg:text-[14vw] text-center mb-2 max-w-[90vw] md:max-w-[80vw]"
+                        className="typeone-font liquid-glass-orange-black text-[13vw] md:text-[11vw] lg:text-[12vw] text-center mb-2 w-full max-w-[100vw] px-4 whitespace-nowrap"
                     >
                         BRANDIGO
                     </h1>
