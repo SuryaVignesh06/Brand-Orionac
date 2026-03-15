@@ -47,7 +47,7 @@ export default function TextBlockOne() {
         }
     }, { scope: container });
 
-    const text = "ORIONAC is a brand growth agency focused on strategy before design. We help businesses define their position, clarify their message, and build brands that support long-term growth. We do not follow trends. We build structured brand systems aligned with real business goals. Our work connects strategy, identity, and digital presence into one clear direction.";
+    const text = "BRANDIGO is a brand growth agency focused on strategy before design. We help businesses define their position, clarify their message, and build brands that support long-term growth. We do not follow trends. We build structured brand systems aligned with real business goals. Our work connects strategy, identity, and digital presence into one clear direction.";
     const words = text.split(" ");
 
     return (
@@ -56,12 +56,12 @@ export default function TextBlockOne() {
             <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-0 overflow-hidden">
                 <img
                     src="/logo.png"
-                    alt="ORIONAC"
+                    alt="BRANDIGO"
                     className="w-[150vw] md:w-[70vw] h-auto object-contain opacity-[0.03] scale-110"
                 />
             </div>
             <div className="w-full md:w-[70%] text-center flex flex-col items-center relative z-10">
-                <h3 className="ui text-2xl md:text-3xl tracking-[0.2em] opacity-80 font-bold mb-8 uppercase text-[#FF5500]">About ORIONAC</h3>
+                <h3 className="ui text-2xl md:text-3xl tracking-[0.2em] opacity-80 font-bold mb-8 uppercase text-[#FF5500]">About BRANDIGO</h3>
                 <h2 className="heading h2 text-5xl md:text-7xl lg:text-[6rem] uppercase tracking-wide leading-[1.2]">
                     {words.map((word, i) => {
                         if (word === "long-term") {

@@ -76,7 +76,7 @@ export default function Header() {
                     <a href="/" className="inline-block transition-transform hover:scale-105">
                         <img
                             src="/logo.png"
-                            alt="ORIONAC"
+                            alt="BRANDIGO"
                             className={`object-contain transition-all duration-500 w-auto ${isScrolled ? 'h-16' : 'h-28'}`}
                         />
                     </a>
@@ -95,7 +95,7 @@ export default function Header() {
                     <a href="/" className="inline-block transition-transform hover:scale-105">
                         <img
                             src="/logo.png"
-                            alt="ORIONAC"
+                            alt="BRANDIGO"
                             className={`object-contain transition-all duration-500 w-auto ${isScrolled ? 'h-12' : 'h-16'}`}
                         />
                     </a>

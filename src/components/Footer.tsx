@@ -4,7 +4,7 @@ export default function Footer({ onToggleSplat }: { onToggleSplat: () => void })
 
             <div className="w-full grid grid-cols-1 md:grid-cols-4 gap-12 mb-20 border-b border-white/10 pb-20">
                 <div className="col-span-1 md:col-span-2">
-                    <h2 className="heading text-[6vw] md:text-[3vw] leading-[1] text-white uppercase mb-6">ORIONAC</h2>
+                    <h2 className="heading text-[6vw] md:text-[3vw] leading-[1] text-white uppercase mb-6">BRANDIGO</h2>
                     <p className="font-ui text-lg md:text-xl leading-relaxed opacity-60 max-w-md mix-blend-difference pb-8">
                         A strategic brand growth agency helping businesses scale with clarity, confidence, and direction.
                     </p>
@@ -35,7 +35,7 @@ export default function Footer({ onToggleSplat }: { onToggleSplat: () => void })
             </div>
 
             <div className="w-full flex flex-col md:flex-row justify-between items-center uppercase font-ui text-[10px] tracking-widest opacity-50 gap-4">
-                <p>© {new Date().getFullYear()} ORIONAC. All rights reserved.</p>
+                <p>© {new Date().getFullYear()} BRANDIGO. All rights reserved.</p>
                 <div className="flex gap-8">
                     <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
                     <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

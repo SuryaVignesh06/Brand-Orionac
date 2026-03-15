@@ -14,7 +14,7 @@ export default function ContactSection() {
                     <div className="flex flex-col md:flex-row gap-12 md:gap-24">
                         <div>
                             <h4 className="font-ui text-base text-[#FF5500] uppercase tracking-widest font-bold mb-4">Email</h4>
-                            <a href="mailto:hello@orionac.com" className="font-ui text-2xl md:text-3xl font-bold hover:text-[#FF5500] transition-colors">hello@orionac.com</a>
+                            <a href="mailto:hello@brandigo.com" className="font-ui text-2xl md:text-3xl font-bold hover:text-[#FF5500] transition-colors">hello@brandigo.com</a>
                         </div>
                         <div>
                             <h4 className="font-ui text-base text-[#FF5500] uppercase tracking-widest font-bold mb-4">Location</h4>

@@ -74,7 +74,7 @@ export default function TextBlockThree() {
             <div className="w-full flex flex-col md:flex-row gap-12 items-center">
                 {/* Pushed text container slightly to the right using padding */}
                 <div className="w-full md:w-[60%] text-left pl-4 md:pl-12 lg:pl-20">
-                    <h3 className="ui text-2xl md:text-3xl lg:text-4xl tracking-[0.2em] opacity-80 mb-8 uppercase text-[#FF5500] font-bold">Why Businesses Choose ORIONAC</h3>
+                    <h3 className="ui text-2xl md:text-3xl lg:text-4xl tracking-[0.2em] opacity-80 mb-8 uppercase text-[#FF5500] font-bold">Why Businesses Choose BRANDIGO</h3>
                     <h2 className="heading h2 uppercase tracking-wide leading-[1]">
                         {words.map((word, i) => {
                             if (word.includes("intentional")) {
@@ -100,7 +100,7 @@ export default function TextBlockThree() {
                     <div className="absolute inset-0 bg-[#FF5500]/20 mix-blend-overlay z-10 group-hover:opacity-0 transition-opacity duration-700" />
                     <img
                         src="https://cdn.sanity.io/images/leima53t/production/0ef8b5d40f22caf2162fab2a6a4d4c0490f5a3d8-1000x1000.png"
-                        alt="ORIONAC Strategy"
+                        alt="BRANDIGO Strategy"
                         className="w-full h-full object-cover grayscale opacity-60 group-hover:grayscale-0 group-hover:scale-110 group-hover:opacity-100 transition-all duration-700 ease-out"
                     />
                     <div className="absolute inset-0 border border-black/20 rounded-xl z-20 pointer-events-none" />

@@ -26,7 +26,7 @@ const GlitchText: React.FC<GlitchTextProps> = ({
     const hoverClass = enableOnHover ? 'enable-on-hover' : '';
 
     return (
-        <div className={`glitch ${hoverClass} ${className}`} style={inlineStyles} data-text={typeof children === 'string' ? children : 'ORIONAC'}>
+        <div className={`glitch ${hoverClass} ${className}`} style={inlineStyles} data-text={typeof children === 'string' ? children : 'BRANDIGO'}>
             {children}
         </div>
     );

@@ -6,7 +6,7 @@ export default function CTASection() {
                     <span className="heading-text">Ready to Strengthen Your Brand?</span>
                 </h2>
                 <p className="font-ui opacity-70 tracking-wide text-lg md:text-2xl mt-4 mb-20 md:w-3/4 mx-auto">
-                    If you are ready to move from uncertainty to clarity, from competition to authority, ORIONAC is here to guide the process.
+                    If you are ready to move from uncertainty to clarity, from competition to authority, BRANDIGO is here to guide the process.
                 </p>
 
                 <div className="mt-8 flex flex-col items-center gap-4">

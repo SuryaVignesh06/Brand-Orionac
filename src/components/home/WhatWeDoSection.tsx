@@ -20,7 +20,7 @@ export default function WhatWeDoSection() {
         },
         {
             title: "THE DISCOVERY",
-            description: "You realize that a generic visual identity isn't enough. You discover ORIONAC. We don't just design logos; we architect brand systems engineered for authority and market dominance. A true strategy starts to form."
+            description: "You realize that a generic visual identity isn't enough. You discover BRANDIGO. We don't just design logos; we architect brand systems engineered for authority and market dominance. A true strategy starts to form."
         },
         {
             title: "THE ALIGNMENT",

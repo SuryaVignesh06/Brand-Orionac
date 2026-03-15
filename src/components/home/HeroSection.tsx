@@ -139,7 +139,7 @@ export default function HeroSection() {
                         ref={titleRef as any}
                         className="typeone-font liquid-glass-orange-black text-[15vw] md:text-[13vw] lg:text-[14vw] text-center mb-2 max-w-[90vw] md:max-w-[80vw]"
                     >
-                        ORIONAC
+                        BRANDIGO
                     </h1>
 
                     <div className="flex justify-center mt-2 mb-12 h-10 items-center">
